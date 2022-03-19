@@ -1,2 +1,2 @@
 My second readme
-I update my readme file ☕
+I update my readme file
